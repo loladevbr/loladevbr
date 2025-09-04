@@ -2,7 +2,7 @@
 
 **`Dev Junior`**
 
-Eu me chamo Paola Torres, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonada por tecnologia e pela capacidade de solucionar problemas através das mais variadas ferramentas.
+Olá! Eu me chamo Paola Torres, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Acredito no poder da tecnologia como ferramenta para resolver desafios reais e impulsionar mudanças.
 
 ---
 
